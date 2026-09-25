@@ -152,24 +152,6 @@ SafeSteps/
 
 ---
 
-## 🚧 Project Status
-
-**PCB Design — In Progress**
-
-Currently working on:
-
-* [x] Schematic design
-* [x] Component selection
-* [x] Symbol & footprint management
-* [x] ERC checking
-* [x] PCB layout
-* [ ] Final routing
-* [ ] Final DRC
-* [ ] Gerber generation
-* [ ] PCB fabrication and hardware testing
-
----
-
 ## 🎯 Skills Demonstrated
 
 `KiCad 9` `PCB Design` `Schematic Capture` `PCB Layout`
