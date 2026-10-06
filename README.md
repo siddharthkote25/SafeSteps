@@ -63,6 +63,14 @@ Routing
 DRC
 ```
 
+### PCB Layout
+
+![SafeSteps PCB Layout](./layout%20design%20%28Safesteps.png)
+
+### 3D View
+
+![SafeSteps 3D View](./3d%20view%20design.png)
+
 ### PCB Design Work
 
 * PCB layout and board organization
@@ -141,12 +149,16 @@ DRC
 ```text
 SafeSteps/
 │
-├── KiCad Schematic
-├── PCB Layout
-├── Custom Footprints
-├── Custom Symbols
-├── Project Files
-├── Schematic Image
+├── Foot-prints/                      # Custom footprints
+├── symbols/                          # Custom symbols
+├── Gerbers/                          # Manufacturing files
+├── Safesteps.kicad_sch               # Schematic
+├── Safesteps.kicad_pcb               # PCB layout
+├── Safesteps.kicad_pro               # KiCad project file
+├── DRC.rpt                           # Design Rule Check report
+├── SafeSteps (Schematic design ).png # Schematic image
+├── layout design (Safesteps.png      # PCB layout image
+├── 3d view design.png                # 3D render
 └── README.md
 ```
 
@@ -158,7 +170,6 @@ SafeSteps/
 `Footprints` `Component Placement` `Routing` `Net Classes`
 `ERC` `DRC` `UART` `Power Supply Design` `Git` `GitHub`
 
----
 
 ### 👨‍💻 Author
 
