@@ -174,5 +174,4 @@ SafeSteps/
 ### 👨‍💻 Author
 
 **Siddharth Kote**
-Electronics & Communication Engineering Graduate
-Focused on **PCB Design & Electronics Hardware Development**
+siddharthkote129@gmail.com
