@@ -155,10 +155,6 @@ SafeSteps/
 
 ---
 
-### 👨‍💻 Author
-
-**Siddharth Kote** · siddharthkote129@gmail.com · [GitHub](https://github.com/siddharthkote25)
-
 
 ### 👨‍💻 Author
 
